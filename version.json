@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "versionCode": 1,
+  "date": "2026-08-03",
+  "apkUrl": "https://github.com/Kouller/PresuYa-Updates/releases/latest/download/PresuYa.apk",
+  "changes": [
+    "Sistema inicial de actualizaciones de PresuYa.",
+    "Búsqueda manual de nuevas versiones desde Acerca de.",
+    "Avisos discretos cuando exista una actualización."
+  ],
+  "mandatory": false
+}
