@@ -10,9 +10,9 @@ Canal oficial de versiones y actualizaciones de **PresuYa para Android**.
 
 ### Cambios
 
-- La vista previa horizontal ocupa el área completa del celular usando los cuatro bordes reales de la pantalla.
-- Se elimina el ancho máximo heredado del cuadro de vista previa.
-- La aplicación avisa cuando un APK corresponde a una versión anterior.
+- La vista previa horizontal usa el modo inmersivo de Android y aprovecha también el espacio de las barras del sistema.
+- Al volver a Vertical se restauran la barra de estado y la navegación normal.
+- La vista previa conserva el ajuste completo a los cuatro bordes de la pantalla.
 
 El APK oficial est&aacute; disponible en [Releases](https://github.com/Kouller/PresuYa-Updates/releases).
 
