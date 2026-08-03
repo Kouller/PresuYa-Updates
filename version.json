@@ -1,13 +1,13 @@
 {
-    "version":  "1.1.5",
-    "versionCode":  9,
+    "version":  "1.1.6",
+    "versionCode":  10,
     "date":  "2026-08-03",
     "apkUrl":  "https://github.com/Kouller/PresuYa-Updates/releases/latest/download/PresuYa.apk",
     "changes":  [
-                    "La descarga de actualizaciones funciona desde la primera pulsación.",
-                    "Si Android solicita permiso para instalar, la descarga comienza automáticamente al regresar.",
-                    "El botón muestra el estado Preparando actualización mientras se valida el permiso.",
-                    "Se informa claramente cuando el permiso de instalación no fue concedido."
+                    "La vista horizontal utiliza todo el ancho disponible para mostrar el documento grande y legible.",
+                    "El documento puede desplazarse verticalmente sin reducirse hasta verse pequeño.",
+                    "El modo de dos hojas distribuye ambas páginas usando el ancho completo.",
+                    "Se compactaron la cabecera y los controles para dar más espacio a la vista previa."
                 ],
     "mandatory":  false
 }
