@@ -1,13 +1,13 @@
 {
-    "version":  "1.1.3",
-    "versionCode":  7,
+    "version":  "1.1.4",
+    "versionCode":  8,
     "date":  "2026-08-03",
     "apkUrl":  "https://github.com/Kouller/PresuYa-Updates/releases/latest/download/PresuYa.apk",
     "changes":  [
-                    "La vista previa horizontal ocupa toda la pantalla.",
-                    "El botón Ajustar conserva todo el texto dentro de su borde.",
-                    "En vertical se muestra únicamente una hoja.",
-                    "La opción de dos hojas aparece solo en horizontal y se restablece al volver a vertical."
+                    "La vista previa horizontal ajusta la hoja usando el ancho y la altura disponibles.",
+                    "Una hoja puede mostrarse completa sin quedar cortada verticalmente.",
+                    "El modo de dos hojas calcula una escala común para que ambas entren lado a lado.",
+                    "La vista se reajusta automáticamente cuando Android termina de girar la pantalla."
                 ],
     "mandatory":  false
 }
