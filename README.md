@@ -4,16 +4,16 @@ Canal oficial de versiones y actualizaciones de **PresuYa para Android**.
 
 ## Versi&oacute;n disponible
 
-- Versi&oacute;n: **1.1.7**
-- C&oacute;digo interno: **11**
+- Versi&oacute;n: **1.1.8**
+- C&oacute;digo interno: **12**
 - Fecha: **2026-08-03**
 
 ### Cambios
 
-- La vista horizontal ocupa realmente toda la pantalla y conserva desplazamiento continuo.
-- La descarga de actualización se vigila desde la actividad visible de PresuYa.
-- El instalador se abre en cuanto el APK termina de descargarse.
-- Si Android pausa la aplicación, la comprobación continúa al regresar sin volver a descargar.
+- La vista previa horizontal fuerza un modal real de pantalla completa de borde a borde.
+- Se evita que el editor quede visible detrás del documento en horizontal.
+- Incluye el flujo persistente para abrir el instalador al terminar la descarga.
+- Se incrementó el código interno para impedir que Android reutilice una compilación anterior.
 
 El APK oficial est&aacute; disponible en [Releases](https://github.com/Kouller/PresuYa-Updates/releases).
 

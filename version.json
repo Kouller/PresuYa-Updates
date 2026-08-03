@@ -1,13 +1,13 @@
 {
-    "version":  "1.1.7",
-    "versionCode":  11,
+    "version":  "1.1.8",
+    "versionCode":  12,
     "date":  "2026-08-03",
     "apkUrl":  "https://github.com/Kouller/PresuYa-Updates/releases/latest/download/PresuYa.apk",
     "changes":  [
-                    "La vista horizontal ocupa realmente toda la pantalla y conserva desplazamiento continuo.",
-                    "La descarga de actualización se vigila desde la actividad visible de PresuYa.",
-                    "El instalador se abre en cuanto el APK termina de descargarse.",
-                    "Si Android pausa la aplicación, la comprobación continúa al regresar sin volver a descargar."
+                    "La vista previa horizontal fuerza un modal real de pantalla completa de borde a borde.",
+                    "Se evita que el editor quede visible detrás del documento en horizontal.",
+                    "Incluye el flujo persistente para abrir el instalador al terminar la descarga.",
+                    "Se incrementó el código interno para impedir que Android reutilice una compilación anterior."
                 ],
     "mandatory":  false
 }
