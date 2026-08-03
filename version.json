@@ -1,11 +1,12 @@
 {
-    "version":  "1.1.0",
-    "versionCode":  4,
+    "version":  "1.1.1",
+    "versionCode":  5,
     "date":  "2026-08-03",
     "apkUrl":  "https://github.com/Kouller/PresuYa-Updates/releases/latest/download/PresuYa.apk",
     "changes":  [
-                    "Versión base estable de la línea 1.1.",
-                    "Preparación del nuevo esquema de versiones para correcciones menores."
+                    "Se muestra la versión instalada con una insignia discreta en Acerca de.",
+                    "Se automatizó la actualización del APK, version.json, README y Release.",
+                    "Mejoras internas del publicador para reemplazar correcciones sin duplicar APK."
                 ],
     "mandatory":  false
 }
