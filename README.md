@@ -10,10 +10,10 @@ Canal oficial de versiones y actualizaciones de **PresuYa para Android**.
 
 ### Cambios
 
-- La pantalla completa horizontal ya no depende de conservar una clase de JavaScript durante el giro.
-- Los dispositivos táctiles horizontales fuerzan el modal a ocupar 100% del ancho y alto.
-- La vista previa se coloca por encima de todo el editor con prioridad visual máxima.
-- Se verificó el caso sin clase horizontal en una pantalla simulada de 1600 por 720.
+- La vista horizontal fuerza pantalla completa en dispositivos táctiles.
+- El actualizador verifica la versión interna del APK antes de reutilizar una descarga.
+- Los APK antiguos guardados se descartan automáticamente.
+- Cada versión usa un enlace directo y único a su Release para evitar archivos anteriores en caché.
 
 El APK oficial est&aacute; disponible en [Releases](https://github.com/Kouller/PresuYa-Updates/releases).
 
