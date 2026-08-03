@@ -10,10 +10,10 @@ Canal oficial de versiones y actualizaciones de **PresuYa para Android**.
 
 ### Cambios
 
-- La vista previa horizontal ahora ocupa toda la pantalla.
-- Se eliminaron márgenes, bordes y apariencia de ventana emergente en horizontal.
-- La barra de controles se compacta para aprovechar mejor el espacio del documento.
-- Al volver a vertical se restaura la presentación normal.
+- La vista previa horizontal ocupa toda la pantalla.
+- El botón Ajustar conserva todo el texto dentro de su borde.
+- En vertical se muestra únicamente una hoja.
+- La opción de dos hojas aparece solo en horizontal y se restablece al volver a vertical.
 
 El APK oficial est&aacute; disponible en [Releases](https://github.com/Kouller/PresuYa-Updates/releases).
 
