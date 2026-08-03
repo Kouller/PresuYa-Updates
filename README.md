@@ -10,10 +10,10 @@ Canal oficial de versiones y actualizaciones de **PresuYa para Android**.
 
 ### Cambios
 
-- La vista horizontal utiliza todo el ancho disponible para mostrar el documento grande y legible.
-- El documento puede desplazarse verticalmente sin reducirse hasta verse pequeño.
-- El modo de dos hojas distribuye ambas páginas usando el ancho completo.
-- Se compactaron la cabecera y los controles para dar más espacio a la vista previa.
+- La vista horizontal utiliza todo el ancho disponible y permite desplazamiento vertical.
+- Si el permiso de instalación ya existe, PresuYa pasa directamente a la descarga o al instalador.
+- La descarga queda registrada aunque Android suspenda temporalmente la aplicación.
+- Un APK ya descargado se reutiliza y no vuelve a descargarse para abrir el instalador.
 
 El APK oficial est&aacute; disponible en [Releases](https://github.com/Kouller/PresuYa-Updates/releases).
 
