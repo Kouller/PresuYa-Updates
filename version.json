@@ -9,7 +9,7 @@
                     "Fecha de creación visible en Mis presupuestos.",
                     "El botón Nuevo ya no cubre la última tarjeta.",
                     "Acerca de ahora tiene una interfaz más limpia, sin botón X.",
-                    "La búsqueda siempre carga la lista vigente de mejoras."
+                    "Conexión corregida con el servicio de actualizaciones de GitHub."
                 ],
     "mandatory":  false
 }
