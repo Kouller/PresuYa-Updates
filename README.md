@@ -4,16 +4,16 @@ Canal oficial de versiones y actualizaciones de **PresuYa para Android**.
 
 ## Versi&oacute;n disponible
 
-- Versi&oacute;n: **1.1.2**
-- C&oacute;digo interno: **6**
+- Versi&oacute;n: **1.1.3**
+- C&oacute;digo interno: **7**
 - Fecha: **2026-08-03**
 
 ### Cambios
 
-- La aplicación permanece en orientación vertical durante el uso normal.
-- La vista previa permite cambiar temporalmente a orientación horizontal.
-- Nuevo selector para visualizar una hoja amplia o dos hojas lado a lado.
-- Al cerrar la vista previa, la aplicación vuelve automáticamente a vertical.
+- La vista previa horizontal ahora ocupa toda la pantalla.
+- Se eliminaron márgenes, bordes y apariencia de ventana emergente en horizontal.
+- La barra de controles se compacta para aprovechar mejor el espacio del documento.
+- Al volver a vertical se restaura la presentación normal.
 
 El APK oficial est&aacute; disponible en [Releases](https://github.com/Kouller/PresuYa-Updates/releases).
 
