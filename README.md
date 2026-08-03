@@ -10,10 +10,10 @@ Canal oficial de versiones y actualizaciones de **PresuYa para Android**.
 
 ### Cambios
 
-- La vista horizontal se enlaza directamente al modal y conserva el modo de pantalla completa después del giro.
-- Se eliminó el ancho máximo de ventana emergente en horizontal.
-- El documento dispone de una zona continua de desplazamiento de borde a borde.
-- Se verificó el tamaño completo del modal en una pantalla horizontal de prueba.
+- La vista horizontal ocupa realmente toda la pantalla y conserva desplazamiento continuo.
+- La descarga de actualización se vigila desde la actividad visible de PresuYa.
+- El instalador se abre en cuanto el APK termina de descargarse.
+- Si Android pausa la aplicación, la comprobación continúa al regresar sin volver a descargar.
 
 El APK oficial est&aacute; disponible en [Releases](https://github.com/Kouller/PresuYa-Updates/releases).
 
