@@ -4,16 +4,16 @@ Canal oficial de versiones y actualizaciones de **PresuYa para Android**.
 
 ## Versi&oacute;n disponible
 
-- Versi&oacute;n: **1.1.4**
-- C&oacute;digo interno: **8**
+- Versi&oacute;n: **1.1.5**
+- C&oacute;digo interno: **9**
 - Fecha: **2026-08-03**
 
 ### Cambios
 
-- La vista previa horizontal ajusta la hoja usando el ancho y la altura disponibles.
-- Una hoja puede mostrarse completa sin quedar cortada verticalmente.
-- El modo de dos hojas calcula una escala común para que ambas entren lado a lado.
-- La vista se reajusta automáticamente cuando Android termina de girar la pantalla.
+- La descarga de actualizaciones funciona desde la primera pulsación.
+- Si Android solicita permiso para instalar, la descarga comienza automáticamente al regresar.
+- El botón muestra el estado Preparando actualización mientras se valida el permiso.
+- Se informa claramente cuando el permiso de instalación no fue concedido.
 
 El APK oficial est&aacute; disponible en [Releases](https://github.com/Kouller/PresuYa-Updates/releases).
 
