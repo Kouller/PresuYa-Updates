@@ -4,14 +4,14 @@ Canal oficial de versiones y actualizaciones de **PresuYa para Android**.
 
 ## VersiÃ³n disponible
 
-- VersiÃ³n: **1.0.1**
-- CÃ³digo interno: **3**
+- VersiÃ³n: **1.1.0**
+- CÃ³digo interno: **4**
 - Fecha: **2026-08-03**
 
 ### Cambios
 
-- La versión instalada ahora aparece de forma clara y discreta en Acerca de.
-- Publicación automatizada para mantener APK, versión, Release y README sincronizados.
+- Versión base estable de la línea 1.1.
+- Preparación del nuevo esquema de versiones para correcciones menores.
 
 El APK oficial estÃ¡ disponible en [Releases](https://github.com/Kouller/PresuYa-Updates/releases).
 
