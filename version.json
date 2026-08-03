@@ -1,13 +1,13 @@
 {
-    "version":  "1.1.8",
-    "versionCode":  12,
+    "version":  "1.1.9",
+    "versionCode":  13,
     "date":  "2026-08-03",
     "apkUrl":  "https://github.com/Kouller/PresuYa-Updates/releases/latest/download/PresuYa.apk",
     "changes":  [
-                    "La vista previa horizontal fuerza un modal real de pantalla completa de borde a borde.",
-                    "Se evita que el editor quede visible detrás del documento en horizontal.",
-                    "Incluye el flujo persistente para abrir el instalador al terminar la descarga.",
-                    "Se incrementó el código interno para impedir que Android reutilice una compilación anterior."
+                    "La pantalla completa horizontal ya no depende de conservar una clase de JavaScript durante el giro.",
+                    "Los dispositivos táctiles horizontales fuerzan el modal a ocupar 100% del ancho y alto.",
+                    "La vista previa se coloca por encima de todo el editor con prioridad visual máxima.",
+                    "Se verificó el caso sin clase horizontal en una pantalla simulada de 1600 por 720."
                 ],
     "mandatory":  false
 }
