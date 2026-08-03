@@ -4,15 +4,15 @@ Canal oficial de versiones y actualizaciones de **PresuYa para Android**.
 
 ## Versi&oacute;n disponible
 
-- Versi&oacute;n: **1.1.10**
-- C&oacute;digo interno: **14**
+- Versi&oacute;n: **1.1.9**
+- C&oacute;digo interno: **13**
 - Fecha: **2026-08-03**
 
 ### Cambios
 
-- La vista previa horizontal ahora ocupa toda la pantalla y reajusta su tamaño después del giro.
-- PresuYa detecta si el APK descargado corresponde a una versión anterior y muestra un aviso claro.
-- Se mantiene la validación del APK antes de abrir el instalador.
+- La vista previa horizontal ocupa el área completa del celular usando los cuatro bordes reales de la pantalla.
+- Se elimina el ancho máximo heredado del cuadro de vista previa.
+- La aplicación avisa cuando un APK corresponde a una versión anterior.
 
 El APK oficial est&aacute; disponible en [Releases](https://github.com/Kouller/PresuYa-Updates/releases).
 
