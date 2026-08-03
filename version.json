@@ -1,13 +1,12 @@
 {
-    "version":  "1.1.9",
-    "versionCode":  13,
+    "version":  "1.1.10",
+    "versionCode":  14,
     "date":  "2026-08-03",
-    "apkUrl":  "https://github.com/Kouller/PresuYa-Updates/releases/download/v1.1.9/PresuYa.apk?versionCode=13",
+    "apkUrl":  "https://github.com/Kouller/PresuYa-Updates/releases/download/v1.1.10/PresuYa.apk?versionCode=14",
     "changes":  [
-                    "La vista horizontal fuerza pantalla completa en dispositivos táctiles.",
-                    "El actualizador verifica la versión interna del APK antes de reutilizar una descarga.",
-                    "Los APK antiguos guardados se descartan automáticamente.",
-                    "Cada versión usa un enlace directo y único a su Release para evitar archivos anteriores en caché."
+                    "La vista previa horizontal ahora ocupa toda la pantalla y reajusta su tamaño después del giro.",
+                    "PresuYa detecta si el APK descargado corresponde a una versión anterior y muestra un aviso claro.",
+                    "Se mantiene la validación del APK antes de abrir el instalador."
                 ],
     "mandatory":  false
 }
