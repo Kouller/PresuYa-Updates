@@ -10,7 +10,8 @@ Canal oficial de versiones y actualizaciones de **PresuYa para Android**.
 
 ### Cambios
 
-- La versión instalada ahora aparece de forma clara y discreta en Acerca de.,Publicación automatizada para mantener APK, versión, Release y README sincronizados.
+- La versión instalada ahora aparece de forma clara y discreta en Acerca de.
+- Publicación automatizada para mantener APK, versión, Release y README sincronizados.
 
 El APK oficial estÃ¡ disponible en [Releases](https://github.com/Kouller/PresuYa-Updates/releases).
 
