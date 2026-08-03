@@ -4,10 +4,11 @@
     "date":  "2026-08-03",
     "apkUrl":  "https://github.com/Kouller/PresuYa-Updates/releases/download/v1.0.1/PresuYa.apk",
     "changes":  [
-                    "Zoom con dos dedos en la vista previa.",
-                    "Acercamiento centrado en la zona que estás observando.",
-                    "Desplazamiento de la hoja cuando está ampliada.",
-                    "Zoom máximo aumentado a 300%."
+                    "Zoom con dos dedos, enfocado en la zona observada.",
+                    "Desplazamiento de la hoja ampliada y zoom de hasta 300%.",
+                    "Fecha de creación visible en Mis presupuestos.",
+                    "El botón Nuevo ya no cubre la última tarjeta.",
+                    "Acerca de ahora tiene una interfaz más limpia, sin botón X."
                 ],
     "mandatory":  false
 }
